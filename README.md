@@ -71,30 +71,6 @@ A sleek, modern task management application built with the MERN stack (MongoDB, 
 4. **Access the application**
    - Open your browser and navigate to `http://localhost:3000`
 
-## 📸 Screenshots
-
-## 🔧 API Endpoints
-
-| Method | Endpoint | Description | Auth Required |
-|--------|----------|-------------|--------------|
-| POST | /api/auth/register | Register a new user | No |
-| POST | /api/auth/login | Login a user | No |
-| GET | /api/notes | Get all notes for a user | Yes |
-| POST | /api/notes | Create a new note | Yes |
-| PUT | /api/notes/:id | Update a note | Yes |
-| DELETE | /api/notes/:id | Delete a note | Yes |
-
-## 🧪 Testing
-
-```bash
-# Run tests for the backend
-cd server
-npm test
-
-# Run tests for the frontend
-cd client
-npm test
-```
 
 ## 🔄 Future Improvements
 
